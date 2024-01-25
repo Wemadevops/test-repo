@@ -2,3 +2,4 @@ secret.txt
 *.md
 !test4.md
 home/**/**/*.md
+meals.txt
